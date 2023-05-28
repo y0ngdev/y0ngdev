@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **ugbovop@gmail.com**
+- 📫 How to reach me **prosperugbovo@yahoo.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
