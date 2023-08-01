@@ -7,8 +7,8 @@ A Backend developer
 
 *   🌍  I'm based  Somewhere in Africa
 *   ✉️  You can contact me at [prosperugbovo@yahoo.com](mailto:prosperugbovo@yahoo.com)
-*   🧠  I'm learning Golang and python
-*   🤝  I'm open to collaborating on Technical articles and interesting projects <a href="https://www.twitter.com/_yongdev" target="_blank" rel="noreferrer"> <img  src="https://img.shields.io/twitter/follow/_yongdev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/></a>
+*   🧠  I'm learning Golang and Python
+*   🤝  I'm open to collaborating on Technical articles and interesting projects 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
